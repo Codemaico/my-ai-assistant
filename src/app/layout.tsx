@@ -20,7 +20,7 @@ export default function RootLayout({
         <header className="bg-white border-b border-gray-200 px-4 py-3">
           <div className="max-w-7xl mx-auto flex items-center justify-between">
             <h1 className="text-xl font-semibold text-gray-800">
-              AI Assistant
+              MSS AI ASSISTANT
             </h1>
             <span className="text-sm text-gray-500">
               Powered by GPT-4o
